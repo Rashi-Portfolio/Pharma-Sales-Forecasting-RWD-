@@ -1,5 +1,8 @@
 # Pharmaceutical Sales Forecasting & Demand Analysis (Real-World Data)
-📌 This project develops a pharmaceutical sales forecasting model using real-world data, focusing on the M01AB drug category. Leveraging transactional data (2014–2019) from a pharmacy Point-of-Sale system, the analysis applies time-series modeling, outlier treatment, and Naive vs Prophet approaches to generate 12-month demand forecasts and uncover seasonality patterns to support data-driven supply planning.
+📌 Forecasted pharmaceutical demand using time-series models to uncover seasonality patterns and enable more effective inventory and supply planning.
+
+##  Overview
+This project develops a pharmaceutical sales forecasting model using real-world data, focusing on the M01AB (anti-inflammatory and antirheumatic drugs, non-steroids) drug category. Leveraging transactional data (2014–2019) from a pharmacy Point-of-Sale system, the analysis applies time-series modeling, outlier treatment, and Naive vs Prophet approaches to generate 12-month demand forecasts and uncover seasonality patterns to support data-driven supply planning.
 
 ## Objective
 To evaluate how different forecasting approaches can improve demand prediction and support data-driven decision-making in pharmaceutical supply planning and inventory management.
