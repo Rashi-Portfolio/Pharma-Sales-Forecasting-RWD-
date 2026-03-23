@@ -39,7 +39,7 @@ To evaluate how different forecasting approaches can improve demand prediction a
 - Provides a scalable approach for forecasting across drug categories  
 
 ## Tools & Technologies
-Python, Pandas, Matplotlib, Prophet
+Python, Pandas, Matplotlib, Prophet, Seaborn
 
 ## Conclusion
 This project demonstrates how combining data preprocessing, exploratory analysis, and time-series forecasting can transform raw sales data into actionable insights. The results highlight the importance of seasonality-aware forecasting and robust data handling in driving effective pharmaceutical demand planning. 
